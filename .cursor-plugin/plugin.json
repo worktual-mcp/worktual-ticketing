@@ -1,0 +1,13 @@
+{
+  "name": "worktual-ticketing",
+  "version": "1.0.0",
+  "description": "Look up customers, manage tickets, and update knowledge-base articles in Worktual Ticketing.",
+  "author": {
+    "name": "Worktual Limited",
+    "email": "support@worktual.com"
+  },
+  "homepage": "https://worktual.com/",
+  "repository": "https://github.com/worktual-mcp/worktual-ticketing-cursor-plugin",
+  "keywords": ["ticketing", "customer-support", "knowledge-base"],
+  "logo": "assets/logo.png"
+}

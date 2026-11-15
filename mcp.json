@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "worktual-ticketing": {
+      "url": "https://ticketing-mcp.worktual.com/mcp"
+    }
+  }
+}
