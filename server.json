@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.worktual-mcp/worktual-ticketing",
+  "title": "Worktual Ticketing",
+  "description": "Look up customers, manage tickets, and draft knowledge-base articles.",
+  "repository": {
+    "url": "https://github.com/worktual-mcp/worktual-ticketing-cursor-plugin",
+    "source": "github"
+  },
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://ticketing-mcp.worktual.com/mcp"
+    }
+  ]
+}
