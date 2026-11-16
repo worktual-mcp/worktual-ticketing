@@ -1,4 +1,4 @@
-# Worktual Ticketing for Cursor
+# Worktual Ticketing
 
 Connect Cursor to Worktual Ticketing. Staff can look up customers, review and create tickets, and draft knowledge-base articles through the signed-in Worktual account.
 

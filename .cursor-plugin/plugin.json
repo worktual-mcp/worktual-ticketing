@@ -7,7 +7,7 @@
     "email": "support@worktual.com"
   },
   "homepage": "https://worktual.com/",
-  "repository": "https://github.com/worktual-mcp/worktual-ticketing-cursor-plugin",
+  "repository": "https://github.com/worktual-mcp/worktual-ticketing",
   "keywords": ["ticketing", "customer-support", "knowledge-base"],
   "logo": "assets/logo.png"
 }

@@ -4,7 +4,7 @@
   "title": "Worktual Ticketing",
   "description": "Look up customers, manage tickets, and draft knowledge-base articles.",
   "repository": {
-    "url": "https://github.com/worktual-mcp/worktual-ticketing-cursor-plugin",
+    "url": "https://github.com/worktual-mcp/worktual-ticketing",
     "source": "github"
   },
   "version": "1.0.0",
